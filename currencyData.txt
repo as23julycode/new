@@ -51,3 +51,4 @@ Trinidadian Dollar	0.092336	10.830042
 Turkish Lira	0.107358	9.314632
 US Dollar	0.013588	73.593029
 Venezuelan Bolivar	0.135713	7.368513
+Indonesian 6554849  9847987
